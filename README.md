@@ -15,7 +15,7 @@ A Python utility to automatically backup and export Deepfield Defender dashboard
   - Description and labels
 - ✅ **Flexible Backup Locations** - Specify custom backup directories
 - ✅ **Comprehensive Logging** - Configurable log levels for debugging
-- ✅ **Timestamp-based Filenames** - ISO 8601 format (`YYYY-MM-DDTHHMM SS-slug.json`)
+- ✅ **Timestamp-based Filenames** - ISO 8601 format (`YYYY-MM-DDTHH-MM-SS-dashboard-slug.json`)
 - ✅ **Error Handling** - Detailed error reporting and recovery
 
 ## Requirements
